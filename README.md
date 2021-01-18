@@ -1,6 +1,6 @@
 <center><img src="./assets/banner.jpg" height="180" alt="TamoAÍ" /></center>
 <center>
-<i>A evolução do seu jeito!</i>
+<i>Sua jornada, do seu jeito!</i>
 </center>
 
 ### 💡 Desafio & Cenário
